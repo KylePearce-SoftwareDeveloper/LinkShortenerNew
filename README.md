@@ -12,5 +12,4 @@ Steps to run app:
 - Now you should see the home page, here you can enter any link that you want to shorten
 - Uppon clicking shorten button you should now be greeted with a new page providing you with your shortened URL
 - Now you can use your shortened URL in the browser (If you use the wrong url here you will be taken to a 404 error page)
-- After visiting the new shortened URL, if you go back one step and now type in the browser: http://localhost:8080/visits/<enter shortened URL here>, for example
-  http://localhost:8080/visits/4gmu, you will be able to view how many times that shortened URL has been hit.
+- After visiting the new shortened URL, if you go back one step and now type in the browser: http://localhost:8080/visits/4gmu, (use your new shortned URL not the test one shown here (4gmu)) you will be able to view how many times that shortened URL has been hit.
