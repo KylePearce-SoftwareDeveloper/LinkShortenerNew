@@ -1,0 +1,31 @@
+body#homePage {
+    background: url(../images/backgroundHorizontal.jpg) no-repeat center fixed;
+    background-size: cover;
+    font-family: 'Inter', Arial, sans-serif;
+  }
+
+  body#shortenedLinkPage {
+    background: url(../images/backgroundImage2.jpg) no-repeat center fixed;
+    background-size: cover;
+    font-family: 'Inter', Arial, sans-serif;
+  }
+
+  body#errorPage {
+    background: url(../images/backgroundImage3.jpg) no-repeat center fixed;
+    background-size: cover;
+    font-family: 'Inter', Arial, sans-serif;
+  }
+
+  body#visitsPage {
+    background: url(../images/backgoundImage4.jpg) no-repeat center fixed;
+    background-size: cover;
+    font-family: 'Inter', Arial, sans-serif;
+  }
+
+  main {
+    background: #fff;
+    padding: 1rem 3rem 2rem;
+    width: 900px;
+    margin: 2rem auto;
+    box-shadow: rgba(0, 0, 0, 0.05) -2px -2px 4px;
+  }

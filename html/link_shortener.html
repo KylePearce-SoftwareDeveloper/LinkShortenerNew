@@ -1,0 +1,20 @@
+<html>
+
+<head>
+  <title>Link Shortener App</title>
+  <link href="https://fonts.googleapis.com/css2?family=Fira+Sans:wght@500&display=swap" rel="stylesheet" />
+  <link href="/css/style.css" rel="stylesheet">
+  <link rel="shortcut icon" href="/assets/kp.png" type="image/png">
+</head>
+
+<body id="homePage">
+  <main>
+    <h1>{{ header }}</h1>
+    <form action="/shorten" method="post">
+      <input name="fullurl" type="url" placeholder="Enter the full URL" />
+      <button type="submit">Shorten</button>
+    </form>
+  </main>
+</body>
+
+</html>
