@@ -1,5 +1,5 @@
 # LinkShortenerNew
-Small link shortener app for PayRock code challenge
+Small link shortener app for PayRoc code challenge
 
 Technical Details:
 This app was created on a mac machine and uses the Deno runtime
